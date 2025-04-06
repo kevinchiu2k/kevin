@@ -8,7 +8,7 @@
 包括 python 自動翻頁，禁止通知，抓取圖片範圍等作法，selenium,requests,beautiful soup...api等工具
 
 # Education
-National Yang-Ming University
+NYCU University
 
 # Work Histroy
 - support engineer
