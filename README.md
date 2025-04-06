@@ -11,6 +11,6 @@
 National Yang-Ming University
 
 # Work Histroy
-- work space1
-- work space2
+- work place1
+- work place2
    
