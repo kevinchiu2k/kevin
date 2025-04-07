@@ -1,4 +1,4 @@
-# Kevin.github.io
+# kevin.github.io
 ## Project
 ### Project 1
 - Description
