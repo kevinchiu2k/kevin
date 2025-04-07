@@ -9,6 +9,7 @@
 
 ### 參考著作
 - [Python: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=outindfooter)
+- [動態網頁爬蟲-使用Selenium](https://hackmd.io/@aaronlife/python-topic-selenium)
 
 
 # Education
