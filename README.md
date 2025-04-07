@@ -8,7 +8,8 @@
 包括 Python 自動翻頁，禁止通知，抓取圖片的範圍等作法，selenium,requests,beautiful soup...API等工具
 
 ### 參考著作
-- [Python: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=outindfooter)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=outindfooter)
+- [Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [動態網頁爬蟲-使用Selenium](https://hackmd.io/@aaronlife/python-topic-selenium)
 
 
