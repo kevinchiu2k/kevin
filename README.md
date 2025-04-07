@@ -4,13 +4,15 @@
 - Description
 1. 可以抓取 Flickr 網站的圖片，抓全部相片和博覽館的圖片
 2. 可以抓取 Pinterest 的圖片
-3. 可以抓取 ppt網站的 Beauty, KoreaStar, KoreaTV 的圖片
+3. 可以抓取 ppt網站的 Beauty, KoreaStar, KoreaDrama 的圖片
 包括 Python 自動翻頁，禁止通知，抓取圖片的範圍等作法，selenium,requests,beautiful soup...API等工具
 
+[Python]
+
 # Education
-NYCU University
+- NYCU University
+- NTOU University
 
 # Work Histroy
-- support engineer
-- support manager
-   
+- Support Manager
+- Support Engineer
