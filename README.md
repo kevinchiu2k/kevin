@@ -7,7 +7,8 @@
 3. 可以抓取 ppt網站的 Beauty, KoreaStar, KoreaDrama 的圖片
 包括 Python 自動翻頁，禁止通知，抓取圖片的範圍等作法，selenium,requests,beautiful soup...API等工具
 
-[Python]
+參考書籍
+[Python](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=outindfooter)
 
 # Education
 - NYCU University
