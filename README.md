@@ -14,7 +14,7 @@
 - [W3schools Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [動態網頁爬蟲-使用Selenium](https://hackmd.io/@aaronlife/python-topic-selenium)
 - [Python爬蟲使用Beautiful Soup](https://hackmd.io/@aaronlife/python-topic-beautifulsoup#Python%E7%88%AC%E8%9F%B2%E4%BD%BF%E7%94%A8Beautiful-Soup)
-- [其它](docs/assets/001.md)
+* [其它](docs/assets/001.md)
 
 # Education
 - [NYCU University](https://www.nycu.edu.tw/nycu/ch/index)
